@@ -1,9 +1,3 @@
-/****Notice and Trouble shooting******
- 1.Connection and Diagram can be found here
- <https://wiki.dfrobot.com/HUSKYLENS_V1.0_SKU_SEN0305_SEN0336#target_23>
- 2.This code is tested on Arduino Uno, Leonardo, Mega boards.
- ******************/
-
 #include "HUSKYLENS.h"
 
 HUSKYLENS huskylens;
